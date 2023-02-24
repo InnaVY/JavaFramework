@@ -1,0 +1,5 @@
+rootProject.name = 'GradleProject'
+include 'git-api'
+include 'git-ui'
+include 'git-core'
+
